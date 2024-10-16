@@ -17,3 +17,6 @@ Example:
   Output:
   'Vatsan took his dog for a spin'
 */
+
+
+// Solution
