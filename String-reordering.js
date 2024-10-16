@@ -35,3 +35,5 @@ function sentence(List) {
   }
   return res.trim();
 }
+
+// or
